@@ -10,8 +10,9 @@ A full-stack CRUD application built with Node.js and containerized using Docker.
 
 ## 📸 Screenshots
 
-![Screenshot 1](Screenshot 2026-04-25 153327.png)
-![Screenshot 2](Screenshot 2026-04-25 153416.png)
+![Screenshot 1](Screenshot%202026-04-25%20153327.png)
+
+![Screenshot 2](Screenshot%202026-04-25%20153416.png)
 
 ## 🛠️ Tech Stack
 - **Backend**: Node.js, Express.js
